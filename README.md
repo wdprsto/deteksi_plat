@@ -9,8 +9,6 @@ Deteksi karakter teks pada plat kendaraan bermotor merupakan langkah penting dal
 ## Metodologi
 Metode yang digunakan dalam proses pengenalan citra, diantaranya:
 1.  Correlation Coefficient
-
-Metode ini membandingkan matriks yang merepresentasikan nilai citra input dengan citra karakter A-Z yang telah disiapkan. Citra karakter uji merepresentasikan masing-masing karakter A-Z0-9 dengan ukuran 24x42 piksel dan berformat bpm. 
+  Metode ini membandingkan matriks yang merepresentasikan nilai citra input dengan citra karakter A-Z yang telah disiapkan. Citra karakter uji merepresentasikan masing-masing karakter A-Z0-9 dengan ukuran 24x42 piksel dan berformat bpm. 
 2.  OCR dalam aplikasi MATLAB Image Processing
-
-Metode ini mengimplementasikan library OCR yang tersedia dalam aplikasi Image Processing pada MATLAB.
+  Metode ini mengimplementasikan library OCR yang tersedia dalam aplikasi Image Processing pada MATLAB.
